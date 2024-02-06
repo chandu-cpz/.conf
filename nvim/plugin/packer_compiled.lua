@@ -129,6 +129,11 @@ _G.packer_plugins = {
     path = "/home/chandu/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
+  ["magma-nvim"] = {
+    loaded = true,
+    path = "/home/chandu/.local/share/nvim/site/pack/packer/start/magma-nvim",
+    url = "https://github.com/dccsillag/magma-nvim"
+  },
   ["mason-lspconfig.nvim"] = {
     loaded = true,
     path = "/home/chandu/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
@@ -174,6 +179,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/chandu/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
+  },
+  ["presence.nvim"] = {
+    loaded = true,
+    path = "/home/chandu/.local/share/nvim/site/pack/packer/start/presence.nvim",
+    url = "https://github.com/andweeb/presence.nvim"
   },
   ripgrep = {
     loaded = true,

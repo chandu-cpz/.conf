@@ -58,4 +58,6 @@ return require('packer').startup(function(use)
 }
     use ( 'BurntSushi/ripgrep')
     use ( 'sharkdp/fd')
+    use 'andweeb/presence.nvim'
+    use { 'dccsillag/magma-nvim', run = ':UpdateRemotePlugins' }
 end)
